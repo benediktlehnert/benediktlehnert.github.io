@@ -1,0 +1,50 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3877540, 2020-03-07T20:30:14-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: HagridText-Regular by Zetafonts
+ * URL: https://www.myfonts.com/fonts/zetafonts/hagrid/text-regular/
+ * 
+ * Webfont: HagridText-Italic by Zetafonts
+ * URL: https://www.myfonts.com/fonts/zetafonts/hagrid/text-italic/
+ * 
+ * Webfont: HagridText-Extrabold by Zetafonts
+ * URL: https://www.myfonts.com/fonts/zetafonts/hagrid/text-extrabold/
+ * 
+ * Webfont: Hagrid-Regular by Zetafonts
+ * URL: https://www.myfonts.com/fonts/zetafonts/hagrid/regular/
+ * 
+ * Webfont: Hagrid-Italic by Zetafonts
+ * URL: https://www.myfonts.com/fonts/zetafonts/hagrid/italic/
+ * 
+ * 
+ * Webfonts copyright: Copyright © 2019 by Cosimo Lorenzo Pancini. All rights reserved.
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3b2aa4");
+
+  
+@font-face {font-family: 'HagridText-Regular';src: url('webfonts/3B2AA4_0_0.eot');src: url('webfonts/3B2AA4_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3B2AA4_0_0.woff2') format('woff2'),url('webfonts/3B2AA4_0_0.woff') format('woff'),url('webfonts/3B2AA4_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'HagridText-Italic';src: url('webfonts/3B2AA4_1_0.eot');src: url('webfonts/3B2AA4_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3B2AA4_1_0.woff2') format('woff2'),url('webfonts/3B2AA4_1_0.woff') format('woff'),url('webfonts/3B2AA4_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'HagridText-Extrabold';src: url('webfonts/3B2AA4_2_0.eot');src: url('webfonts/3B2AA4_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3B2AA4_2_0.woff2') format('woff2'),url('webfonts/3B2AA4_2_0.woff') format('woff'),url('webfonts/3B2AA4_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hagrid-Regular';src: url('webfonts/3B2AA4_3_0.eot');src: url('webfonts/3B2AA4_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3B2AA4_3_0.woff2') format('woff2'),url('webfonts/3B2AA4_3_0.woff') format('woff'),url('webfonts/3B2AA4_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hagrid-Italic';src: url('webfonts/3B2AA4_4_0.eot');src: url('webfonts/3B2AA4_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3B2AA4_4_0.woff2') format('woff2'),url('webfonts/3B2AA4_4_0.woff') format('woff'),url('webfonts/3B2AA4_4_0.ttf') format('truetype');}
+ 
